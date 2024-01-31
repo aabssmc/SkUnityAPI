@@ -14,11 +14,6 @@ import java.util.Objects;
 @SuppressWarnings("unused")
 public class SkUnityAPI {
 
-    public static void main(String[] args){
-        login("c778d0defd0b51b9c8ff22d91e08a39a");
-        System.out.println(Docs.getSyntaxesFromAddon("Skuishy"));
-    }
-
     /**
      * The api url.
      */
